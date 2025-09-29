@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+transformers
+bert-score
+chromadb
+rouge-score
+beautifulsoup4
+groq
+langchain
+numpy
+requests
